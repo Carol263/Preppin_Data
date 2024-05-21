@@ -1,4 +1,4 @@
-<h6><a href="../Week_2/README.md">◀  Prev Week</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="../Week_4/README.md">Next Week  ▶</a></h6>
+<h6><a href="../Week 1/README.md">◀  Prev Week</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="../Week 3/README.md">Next Week  ▶</a></h6>
 
 # Preppin' Data: 2023 Week 02 - International Bank Account Numbers
 
