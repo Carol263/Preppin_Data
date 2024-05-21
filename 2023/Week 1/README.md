@@ -1,4 +1,4 @@
-<h6> &nbsp;&nbsp;&nbsp;<a href="../Week_2/README.md">Next Week  ▶</a></h6>
+<h6> &nbsp;&nbsp;&nbsp;<a href="../Week 2/README.md">Next Week  ▶</a></h6>
 
 # Preppin' Data: 2023 Week 01 - New Year, New Challenge
 
