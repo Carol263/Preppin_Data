@@ -14,6 +14,6 @@
 
 <i>click the image to view the code</i><br>
 <br>
-<a href="PD 2021 wk 1 SQL.sql">
-<img src="PD 2021 wk 1 SQL.png?raw=true" alt="SQL Code">
+<a href="PD 2023 wk 1 Snowflake.sql">
+<img src="PD 2023 wk 1 SQL.png?raw=true" alt="SQL Code">
 </a>
