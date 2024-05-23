@@ -1,4 +1,4 @@
--- PREPPIN_DATA 2023_wk 4
+-- PREPPIN_DATA 2023_wk
 -- We want to stack the tables on top of one another, since they have the same fields in each sheet. We can do this one of 2 ways:
     -- Drag each table into the canvas and use a union step to stack them on top of one another
     -- Use a wildcard union in the input step of one of the tables
@@ -54,18 +54,18 @@ account_type,
 date_of_birth::date as date_of_birth,
 ROW_NUMBER() OVER(PARTITION BY id ORDER BY joining_date ASC) as rn
 FROM PRE_PIVOT
-    PIVOT(MAX(value) FOR demographic IN ('Ethnicity','Account Type','Date of Birth')) AS P
-    (id,
-    joining_date,
-    ethnicity,
-    account_type,
-    date_of_birth)
-    )
+PIVOT(MAX(value) FOR demographic IN ('Ethnicity','Account Type','Date of Birth')) AS P
+(id,
+joining_date,
+ethnicity,
+account_type,
+date_of_birth)
+)
 SELECT 
-    id,
-    joining_date,
-    account_type,
-    date_of_birth,
-    ethnicity
+id,
+joining_date,
+account_type,
+date_of_birth,
+ethnicity
 FROM post_pivot
 WHERE rn = 1

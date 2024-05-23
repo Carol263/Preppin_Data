@@ -1,4 +1,4 @@
-<h6><a href="../Week 3/README.md">◀  Prev Week</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="../Week 5/README.md">Next Week  ▶</a></h6>
+<h6><a href="../Week 3/README.md">◀  Prev Week</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="../Week 4/README.md">Next Week  ▶</a></h6>
 
 # Preppin' Data: 2023 Week 04 - New Customers
 
@@ -6,9 +6,9 @@
 
 ## Techniques:
 
-1. UNION and UNION ALL
-2. PIVOT columns to rows
-3. Using ROW_NUMBER() to remove duplicates.
+1. Removing substrings with REPLACE()
+2. Joining tables
+3. Combining several columns
 
 ### SQL
 
