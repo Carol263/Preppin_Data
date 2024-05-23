@@ -1,4 +1,4 @@
--- PREPPIN_DATA 2023_wk
+-- PREPPIN_DATA 2023_wk 4
 -- We want to stack the tables on top of one another, since they have the same fields in each sheet. We can do this one of 2 ways:
     -- Drag each table into the canvas and use a union step to stack them on top of one another
     -- Use a wildcard union in the input step of one of the tables

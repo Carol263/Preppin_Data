@@ -1,4 +1,4 @@
-<h6><a href="../Week 3/README.md">◀  Prev Week</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="../Week 4/README.md">Next Week  ▶</a></h6>
+<h6><a href="../Week 3/README.md">◀  Prev Week</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="../Week 5/README.md">Next Week  ▶</a></h6>
 
 # Preppin' Data: 2023 Week 04 - New Customers
 
@@ -8,7 +8,7 @@
 
 1. UNION and UNION ALL
 2. PIVOT columns to rows
-3. Using ROW_NUMBER() to remove duplicates
+3. Using ROW_NUMBER() to remove duplicates.
 
 ### SQL
 
